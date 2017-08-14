@@ -23,11 +23,11 @@ There are over 16 million possible color combinations using hex values. Hex valu
 
 ### RGB and RGBA
 
-We can produce any color our eye can see using RGB values. These are created by listing a set of numbers for red, green, and blue respectively using a range of 0 the absence of light and 255 the brightest amount of light possible for that color. These values are comma separated and enclosed in parenthesis and preceeded by rgb, `rbg(255,0,0)` is the color red. Using RGBA we supply a fourth number which is the alpha value. This is the opcaity given in a range of 0-1, where 0 is 0% and 100 is 100% opacity. rgba(255,0,0,0.5) is 50% transparent red color.
+We can produce any color our eye can see using RGB values. These are created by listing a set of numbers for red, green, and blue respectively using a range of 0 the absence of light and 255 the brightest amount of light possible for that color. These values are comma separated, enclosed in parentheses, and preceeded by 'rgb'. For example, `rbg(255,0,0)` is the color red. Using RGBA we supply a fourth number, the alpha value. This is the opacity given in a range of 0-1, where `0` is 0% and `100` is 100% opacity. `rgba(255,0,0,0.5)` is the color red at 50% transparency.
 
 ### HSL and HSLA
 
-There are other supported values such as HSL (Hue Saturation Lightness) or HSLA (Hue Saturation, LIghtness, Alpha) These are less commonly seen, but if you're interested you can read more about them in the resource links at the end of the lesson.
+There are other supported values such as HSL (Hue Saturation Lightness) or HSLA (Hue Saturation, Lightness, Alpha). These are less commonly seen, but if you're interested you can read more about them in the resource links at the end of the lesson.
 
 ## Summary
 
