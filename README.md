@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will do a quick review of CSS color propoerties and their accepted values that were covered in the video lecture in the prior lesson.
+In this lesson we will do a quick review of CSS color propoerties and their accepted values. Both topics were covered in the video lecture in the prior lesson.
 
 ## What's Covered in This Lesson 
 
