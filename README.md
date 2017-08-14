@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will do a quick review of CSS color propoerties and their accepted values that was covered in the video lecture in the prior lesson.
+In this lesson we will do a quick review of CSS color propoerties and their accepted values. Both topics were covered in the video lecture in the prior lesson.
 
 ## What's Covered in This Lesson 
 
@@ -40,3 +40,5 @@ There are other supported values such as HSL (Hue Saturation Lightness) or HSLA 
 - [CSS Performance & Organization, Best Practices](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Adobe - Color Scheme Tool](https://color.adobe.com/create/color-wheel/)
 - [CSS Tricks - HSLA](https://css-tricks.com/yay-for-hsla/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/css-color'>Color</a> on Learn.co and start learning to code for free.</p>
